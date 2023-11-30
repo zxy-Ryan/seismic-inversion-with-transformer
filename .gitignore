@@ -1,0 +1,38 @@
+# Env and package
+.env
+.vscode
+*.whl
+build
+*.egg-info
+
+# Dataset
+*.npz
+
+# Models
+*.pth
+*.pickle
+
+# Compiled python
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Doc
+_build
+
+# Figures
+*.png
+*.jpg
+
+# Logs
+logs
+
+# Dataset
+dataset
+
+# Idea
+.idea
+
+# .DS_Store
+.DS_Store
